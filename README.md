@@ -3,14 +3,16 @@
 This repository contains the final project deliverables for the IDSE course, split into two distinct applications: 
 1. **The Pipeline Project (`/pipeline`):** A Quantitative Portfolio Risk Engine and Data Pipeline.
 2. **The Educational Game (`/game`):** B.S.I. — The Null Protocol, an interactive statistical investigation game.
+3. **Project Documentation (`/documents`):** Contains the comprehensive project reports and final presentation slides.
 
 ---
 
 ## Repository Structure
 \`\`\`text
-idse-final-submission/
+IDSE_project/
 ├── pipeline/      # Streamlit ML Pipeline & Quant Risk Engine
-└── game/          # React/Vite Educational Statistics Game
+├── game/          # React/Vite Educational Statistics Game
+└── documents/     # Project reports and presentation slides
 \`\`\`
 
 ---
